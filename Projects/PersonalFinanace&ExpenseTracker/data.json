@@ -1,0 +1,18 @@
+{
+    "income": [
+        {
+            "amount": 500.0,
+            "date": "21/01/2026",
+            "description": "Bought a course to learn data analysis",
+            "category": null
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 100.0,
+            "date": "1/1/2026",
+            "description": "Wasted",
+            "category": "Food"
+        }
+    ]
+}
